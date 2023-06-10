@@ -1,0 +1,9 @@
+[package]
+name = "Suiswap"
+version = "0.1.0"
+
+[dependencies]
+Sui = { local = "./submodules/sui/crates/sui-framework/packages/sui-framework" }
+
+[addresses]
+suiswap = "0x0"

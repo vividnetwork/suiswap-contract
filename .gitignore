@@ -1,0 +1,17 @@
+.DS_Store
+.bot-token
+.crew3-token
+.twitter-token
+node_modules/
+/build/
+sui.log*
+sui_package_info.json
+package_info.json
+develop/scripts/amm_stable_price_data_raw/raw/*.zip
+develop/scripts/amm_stable_price_data_raw/raw/*.csv
+*.test.html
+discord-bot-log*.txt
+deploy-info*.json
+deploy-info.bak.json
+.cache-account
+develop/
